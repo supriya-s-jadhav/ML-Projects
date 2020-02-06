@@ -1,3 +1,3 @@
-# Machine Learning with Python and R
+# ML (Machine Learning) Projects
 
-Codes related to various Machine Learning projects developed in Python and R.
+Collection of different test cases in machine learning. The programming language used in demonstrating the test cases will be Python or R.
