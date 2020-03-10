@@ -12,8 +12,10 @@ Sorry, something went wrong. Reload?
 
 Its an issue on github side. Possible solutions are:
 1. Wait until the .ipynb files loads, it might take from few days to weeks.
-2. Open [jupyter notebook nbviewer]("https://nbviewer.jupyter.org/") and paste the link to your notebook. 
+2. Open [nbviewer]("https://nbviewer.jupyter.org/") and paste the link to your notebook. 
 
 # References used :
+
 1.[Machine Learning Mastery](https://machinelearningmastery.com/)
+
 2.[Analytics Vidya](https://www.analyticsvidhya.com/)
