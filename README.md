@@ -1,3 +1,12 @@
+```
+AUTHOR: Supriya Jadhav
+
+Version: 1.0
+
+Date: April 2020
+
+```
+
 # ML (Machine Learning) Projects
 
 This repository is the collection of different test cases and demonstrating solutions by implementing different algorithms and statistical models. The programming language used in demonstrating the test cases will be Python or R.
